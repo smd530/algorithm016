@@ -7,7 +7,7 @@
 
 ### 哈希函数
 
-	>牛逼的哈希函数能够减少hash碰撞
+> 牛逼的哈希函数能够减少hash碰撞
 
 ### 时间复杂度
 
@@ -17,16 +17,16 @@
 
 ### 实现（Java HashMap）
 
-<a href ="https://tech.meituan.com/2016/06/24/java-hashmap.html">	HashMap1.8的实现</a>
+<a href ="https://tech.meituan.com/2016/06/24/java-hashmap.html">HashMap1.8的实现</a>
 
-​	<a href="https://www.jianshu.com/p/75adf47958a7">HashMap 相关面试题及其解答</a>
+<a href="https://www.jianshu.com/p/75adf47958a7">HashMap 相关面试题及其解答</a>
 
 ## 二叉树
 
 ![](http://img.tomato530.com/binary_tree.jpg)
 
-	+ 满二叉树 叶子节点全都在最底层，除了叶子节点之外，每个节点都有左右两个子节点，这种二叉树就叫做满二叉树
-	+ 完全二叉树 叶子节点都在最底下两层，最后一层的叶子节点都靠左排列，并且除了最后一层，其他层的节点个	数都要达到最大，这种二叉树叫做完全二叉树
++ 满二叉树 叶子节点全都在最底层，除了叶子节点之外，每个节点都有左右两个子节点，这种二叉树就叫做满二叉树
++ 完全二叉树 叶子节点都在最底下两层，最后一层的叶子节点都靠左排列，并且除了最后一层，其他层的节点个	数都要达到最大，这种二叉树叫做完全二叉树
 
 ### 存储二叉树
 
